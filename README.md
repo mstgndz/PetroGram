@@ -2,7 +2,7 @@ Geoscience Frontiers
 
 Volume 12, Issue 1, January 2021, Pages 81-92
 
-# PetroGram: An Excel-based petrology program for modeling of magmatic processes
+# PetroGram: An excel-based petrology program for modeling of magmatic processes
 
 Mesut GÜNDÜZ(1) and Kürşad ASAN(2)
 
